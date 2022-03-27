@@ -10,7 +10,7 @@ Price:"£750",
 
 {
     id:2,
-    City:"Rome",
+    City:"Rom",
     Location:"Mae Hong Son",
     HotelName:"Farmer's Walk",
     Duration:"4 Days - 3 Nights",
